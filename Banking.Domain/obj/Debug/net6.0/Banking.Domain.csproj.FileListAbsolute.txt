@@ -1,0 +1,12 @@
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\bin\Debug\net6.0\Banking.Domain.deps.json
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\bin\Debug\net6.0\Banking.Domain.dll
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\bin\Debug\net6.0\Banking.Domain.pdb
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\obj\Debug\net6.0\Banking.Domain.csproj.AssemblyReference.cache
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\obj\Debug\net6.0\Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\obj\Debug\net6.0\Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\obj\Debug\net6.0\Banking.Domain.AssemblyInfo.cs
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\obj\Debug\net6.0\Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\obj\Debug\net6.0\Banking.Domain.dll
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\obj\Debug\net6.0\refint\Banking.Domain.dll
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\obj\Debug\net6.0\Banking.Domain.pdb
+C:\Users\ITUStudent\dev\intro-to-programming-sept-2022\Banking\Banking.Domain\obj\Debug\net6.0\ref\Banking.Domain.dll
